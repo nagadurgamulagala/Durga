@@ -1,0 +1,3 @@
+M.NagaDurga
+Bsc-Computer Science
+GitHub is a web-based platform designed for version control and collaboration, built around the Git version control system. It provides a centralized location for hosting Git repositories, making it easier for individuals and teams to manage, share, and collaborate on code and other project files.
